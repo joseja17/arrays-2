@@ -7,7 +7,7 @@ JS-Assessment Arrays
 Better understand Javascript fundamentals of Arrays by completing a series of activities
 
 ## Directions
-Fork this repo, clone your fork, then open arrays-3.js and complete all the activities to make the spec runner pass it's tests (open the SpecRunner.html file in your browser). 
+Fork this repo, clone your fork, then open arrays-2.js and complete all the activities to make the spec runner pass it's tests (open the SpecRunner.html file in your browser). 
 
 ### Debugging/Visualization tools :
 One of the biggest tools in a developers disposal is the debugger. Chrome has one built-in. To use it, just open the index.html file in your browser.
